@@ -15,3 +15,4 @@ Database contains three tables.
 
 Flow of the Web-App.
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
