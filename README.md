@@ -1,6 +1,6 @@
 # Basic-Banking-Web-Application
 
-Intenship project done with <strong>centerhears</strong>. <br>
+Internship project done with <strong>centerhears</strong>. <br>
 A web application to transfer money between multiple users(Project contain some dummy users).A dummy user can also be created.<br>
 
 <strong>Stacks used:-</strong> <br>
